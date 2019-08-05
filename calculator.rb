@@ -2,22 +2,11 @@
 first_number = 20
 second_number = 10 
 
-def sum
-  sum = (first_number + second_number)
-  puts sum
-end 
 
-def difference 
-  difference = (first_number - second_number)
-  puts difference 
-end 
+sum = (first_number + second_number)
+ 
+difference = (first_number - second_number)
 
-def product 
-  product = (first_number * second_number)
-  puts product
-end 
-
-def quotient
-  quotient = (first_number / second_number)
-  puts quotient
-end 
+product = (first_number * second_number)
+  
+quotient = (first_number / second_number)
